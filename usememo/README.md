@@ -1,0 +1,3 @@
+React.memo is a high order component(Hoc) in react which is use for optimize the
+         rendering of functional components. its stop a component from re-rendering if 
+         the props is not changed, by wraping your component with 'React.memo' .
